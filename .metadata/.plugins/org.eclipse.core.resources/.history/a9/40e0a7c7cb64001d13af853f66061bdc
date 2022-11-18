@@ -1,0 +1,16 @@
+
+def encajan(cadena1, cadena2):
+    
+    if (cadena1[1] or cadena1[3]) == (cadena2[1] or cadena2[3]):
+        resultado = True
+    else:
+        resultado = False
+    
+    return resultado
+
+
+pieza1= "[3,4]"
+pieza2= "[2,5]"
+print(encajan(pieza1, pieza2))
+
+print(encajan("[3,4]", "[2,5]"))

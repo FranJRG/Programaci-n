@@ -1,0 +1,53 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/estudiante/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Programacion_modular/com.python.pydev.analysis/v2_indexcache
+Programacion_modular_1|1667901012911675000|/home/estudiante/eclipse-workspace/Programacion_modular/Programacion_modular_1.py
+Actividad_7|1668506190912642000|/home/estudiante/eclipse-workspace/Programacion_modular/Actividad_7.py
+Ejercicio_6|1668419920858024000|/home/estudiante/eclipse-workspace/Programacion_modular/Ejercicio_6.py
+Actividad_8|1668512208864602000|/home/estudiante/eclipse-workspace/Programacion_modular/Actividad_8.py
+Ejercicio_3|1668086716808144000|/home/estudiante/eclipse-workspace/Programacion_modular/Ejercicio_3.py
+Formulas|1668415662819280000|/home/estudiante/eclipse-workspace/Programacion_modular/Formulas.py
+Ejercicio_2|1668083582875200000|/home/estudiante/eclipse-workspace/Programacion_modular/Ejercicio_2.py
+Ejercicio_5|1668416831485189000|/home/estudiante/eclipse-workspace/Programacion_modular/Ejercicio_5.py
+Ejercicio_4|1668415228431063000|/home/estudiante/eclipse-workspace/Programacion_modular/Ejercicio_4.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+15=/home/estudiante/eclipse-workspace/Programacion_modular/Ejercicio_6.py
+10=Programacion_modular_1
+13=/home/estudiante/eclipse-workspace/Programacion_modular/Ejercicio_4.py
+11=/home/estudiante/eclipse-workspace/Programacion_modular/Ejercicio_5.py
+6=Actividad_7
+9=/home/estudiante/eclipse-workspace/Programacion_modular/Programacion_modular_1.py
+16=Ejercicio_6
+2=Ejercicio_3
+4=Formulas
+8=Ejercicio_2
+12=Ejercicio_5
+14=Ejercicio_4
+1=/home/estudiante/eclipse-workspace/Programacion_modular/Ejercicio_3.py
+3=/home/estudiante/eclipse-workspace/Programacion_modular/Formulas.py
+5=/home/estudiante/eclipse-workspace/Programacion_modular/Actividad_7.py
+7=/home/estudiante/eclipse-workspace/Programacion_modular/Ejercicio_2.py
+-- END DICTIONARY
+-- START TREE 1
+15
+año|1|año!1^3#1*19@
+cal|1|calcularRaizCuadrada!3^22#5*34@
+dia|1|dia!1^1#1*19@
+enc|1|encajan!5^4#5*50@
+esc|1|escribir!7^3#1*67@
+gua|1|guardar!7^4#1*67@
+lis|9|lista!9^1#1*83@lista_meses!1^11#1*19@lista!11^1#1*99@lista_invertida!11^2#1*99@lista!13^1#1*115@lista_nueva!7^2#1*67@lista_ordenada!15^1#1*131@lista_dias!1^12#1*19@lista!7^1#1*67@
+mes|1|mes!1^2#1*19@
+mul|1|multiplicar!3^10#5*34@
+obt|3|obtenerElementoMenor!9^11#5*82@obtenerElementoMayor!9^3#5*82@obtenerElementoMayor!3^27#5*34@
+ope|1|operar!3^13#5*34@
+pie|2|pieza2!5^2#1*51@pieza1!5^1#1*51@
+pot|1|potencia!3^5#5*34@
+rev|1|reverse!11^3#5*98@
+sum|2|suma!3^1#5*34@sumaElementos!9^19#5*82@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

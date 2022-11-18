@@ -1,0 +1,5 @@
+lista = ["Di", "buen", "día", "a", "papa"]
+lista_invertida = []
+
+for i in range (len(lista)):
+    print(lista_invertida)

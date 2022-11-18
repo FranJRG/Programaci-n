@@ -1,0 +1,7 @@
+lista = ["Di", "buen", "día", "a", "papa"]
+lista_invertida = []
+
+for i in range (len(lista)):
+    posicion = lista[i-1]
+    lista_invertida = lista[i-1]
+    print(lista_invertida.append(lista[i-1]))

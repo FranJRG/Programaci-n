@@ -1,0 +1,65 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/estudiante/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Boletin_2/com.python.pydev.analysis/v2_indexcache
+Boletins_4.boletin4|1664787032983749000|/home/estudiante/eclipse-workspace/Boletin_2/Boletins_4/boletin4.py
+Actividades.Ejercicio_1|1663849243011443000|/home/estudiante/eclipse-workspace/Boletin_2/Actividades/Ejercicio_1.py
+Explicacion_condicionales|1664177377856348000|/home/estudiante/eclipse-workspace/Boletin_2/Explicacion_condicionales.py
+Actividades.__init__|1663845382183683000|/home/estudiante/eclipse-workspace/Boletin_2/Actividades/__init__.py
+Boletins_4.__init__|1664787025887663000|/home/estudiante/eclipse-workspace/Boletin_2/Boletins_4|^
+Ejercicio_1|1663849301844166000|/home/estudiante/eclipse-workspace/Boletin_2/Ejercicio_1.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+7=/home/estudiante/eclipse-workspace/Boletin_2/Explicacion_condicionales.py
+5=/home/estudiante/eclipse-workspace/Boletin_2/Actividades/Ejercicio_1.py
+3=/home/estudiante/eclipse-workspace/Boletin_2/Ejercicio_1.py
+2=Boletins_4.boletin4
+6=Actividades.Ejercicio_1
+8=Explicacion_condicionales
+1=/home/estudiante/eclipse-workspace/Boletin_2/Boletins_4/boletin4.py
+4=Ejercicio_1
+-- END DICTIONARY
+-- START TREE 1
+38
+A|1|A!1^163#1*19@
+B|1|B!1^164#1*19@
+C|1|C!1^165#1*19@
+N|1|N!1^54#1*19@
+N1|1|N1!1^31#1*19@
+N2|1|N2!1^32#1*19@
+R|1|R!1^34#1*19@
+R2|1|R2!1^55#1*19@
+R3|1|R3!1^56#1*19@
+X1|1|X1!1^42#1*19@
+X2|1|X2!1^44#1*19@
+Y1|1|Y1!1^43#1*19@
+Y2|1|Y2!1^45#1*19@
+alu|1|alumnos!1^113#1*19@
+ang|3|angulo2!1^161#1*19@angulo3!1^162#1*19@angulo1!1^160#1*19@
+asi|4|asignaturasAprobadas!3^44#1*35@asignaturasAprobadas!5^44#1*51@asignaturasCurso!3^45#1*35@asignaturasCurso!5^45#1*51@
+año|1|año!1^61#1*19@
+bas|1|base!1^177#1*19@
+bus|1|bus!1^114#1*19@
+cat|2|cateto2!1^3#1*19@cateto1!1^2#1*19@
+cos|2|coste1!1^144#9*19@coste!1^135#9*19@
+des|3|descuento!1^24#1*19@Descubierto!3^39#1*35@Descubierto!5^39#1*51@
+dia|4|dia!5^1#1*51@dias!1^76#1*19@dia!1^129#1*19@dia!3^1#1*35@
+dis|1|Distancia!1^47#1*19@
+exp|1|exponente!1^178#1*19@
+gra|2|gradosc!1^10#1*19@gradosf!1^9#1*19@
+mes|3|mes!1^84#1*19@mes!3^50#1*35@mes!5^50#1*51@
+mom|1|momentodia!1^130#1*19@
+not|8|nota!5^19#1*51@nota2!3^25#1*35@nota2!5^25#1*51@nota1!3^24#1*35@nota3!5^26#1*51@nota!3^19#1*35@nota3!3^26#1*35@nota1!5^24#1*51@
+num|8|num2!5^14#1*51@numero2!1^16#1*19@numero3!1^17#1*19@num1!3^13#1*35@num1!5^13#1*51@numero1!1^15#1*19@num2!3^14#1*35@numero!1^78#1*19@
+ret|2|retencion!5^8#1*51@retencion!3^8#1*35@
+sal|2|Saldo!5^38#1*51@Saldo!3^38#1*35@
+sue|4|sueldo_neto!5^7#1*51@sueldo_bruto!3^6#1*35@sueldo_bruto!5^6#1*51@sueldo_neto!3^7#1*35@
+tam|1|tamaño!1^97#1*19@
+tem|1|temperatura!7^1#1*67@
+tie|1|tiempollamada!1^128#1*19@
+tip|1|tipo!1^96#1*19@
+tot|1|total!1^23#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

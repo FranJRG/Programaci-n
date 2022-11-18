@@ -1,0 +1,31 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/estudiante/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Boletin_4/com.python.pydev.analysis/v2_indexcache
+Problemas.__init__|1664179324387982000|/home/estudiante/eclipse-workspace/Boletin_4/Problemas/__init__.py
+Acitividades|1664454292539421000|/home/estudiante/eclipse-workspace/Boletin_4/Acitividades.py
+Problemas.Acitividades|1664454182686864000|/home/estudiante/eclipse-workspace/Boletin_4/Problemas/Acitividades.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=/home/estudiante/eclipse-workspace/Boletin_4/Acitividades.py
+4=Acitividades
+1=/home/estudiante/eclipse-workspace/Boletin_4/Problemas/Acitividades.py
+2=Problemas.Acitividades
+-- END DICTIONARY
+-- START TREE 1
+11
+car|2|caracter!1^157#1*19@caracter!3^157#1*35@
+eda|2|Edad!3^92#1*35@Edad!1^92#1*19@
+est|2|Estado!3^91#1*35@Estado!1^91#1*19@
+hor|4|hora1!3^108#1*35@hora1!1^108#1*19@hora2!1^111#1*19@hora2!3^111#1*35@
+let|2|letra!3^66#1*35@letra!1^66#1*19@
+med|2|media!1^50#1*19@media!3^50#1*35@
+min|4|minutos1!3^109#1*35@minutos2!1^112#1*19@minutos2!3^112#1*35@minutos1!1^109#1*19@
+num|10|numero2!1^11#1*19@numero4!3^49#1*35@numero4!1^49#1*19@numero2!3^11#1*35@numero3!1^48#1*19@numero!1^1#1*19@numero3!3^48#1*35@numero!3^1#1*35@numero1!3^10#1*35@numero1!1^10#1*19@
+pre|2|Precio!3^144#1*35@Precio!1^144#1*19@
+pro|2|Producto!3^143#1*35@Producto!1^143#1*19@
+seg|4|segundos2!1^113#1*19@segundos1!3^110#1*35@segundos1!1^110#1*19@segundos2!3^113#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

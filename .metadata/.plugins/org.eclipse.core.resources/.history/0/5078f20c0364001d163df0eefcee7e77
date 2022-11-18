@@ -1,0 +1,5 @@
+pieza1= "[3,4]"
+pieza2= "[2,5]"
+
+if pieza1[1] or pieza1[3] == pieza2[1] or pieza2[3]:
+    print("Es true")

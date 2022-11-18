@@ -1,0 +1,23 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/estudiante/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Ejercicio 7/com.python.pydev.analysis/v2_indexcache
+Ejercicio_7|1665663264523952000|/home/estudiante/eclipse-workspace/Ejercicio 7/Ejercicio_7.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=/home/estudiante/eclipse-workspace/Ejercicio 7/Ejercicio_7.py
+2=Ejercicio_7
+-- END DICTIONARY
+-- START TREE 1
+7
+can|1|cantidad!1^15#1*19@
+con|2|contador!1^3#1*19@contandor!1^87#1*19@
+num|1|numero!1^1#1*19@
+peq|1|pequeño!1^49#1*19@
+pre|1|pregunta!1^48#1*19@
+sum|1|sumaD!1^86#1*19@
+tot|1|total!1^34#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

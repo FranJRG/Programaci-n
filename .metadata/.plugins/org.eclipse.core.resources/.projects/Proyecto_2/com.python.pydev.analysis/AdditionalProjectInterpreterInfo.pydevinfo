@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/estudiante/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Proyecto_2/com.python.pydev.analysis/v2_indexcache
+Ejercicio_3|1663844741107638000|/home/estudiante/eclipse-workspace/Proyecto_2/Ejercicio_3.py
+Ejercicio_2|1663848748017365000|/home/estudiante/eclipse-workspace/Proyecto_2/Ejercicio_2.py
+Ejercicio_5|1663834854903716000|/home/estudiante/eclipse-workspace/Proyecto_2/Ejercicio_5.py
+Proyecto_2|1663667929252637000|/home/estudiante/eclipse-workspace/Proyecto_2/Proyecto_2.py
+Ejercicio_1|1663669760565184000|/home/estudiante/eclipse-workspace/Proyecto_2/Ejercicio_1.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+5=/home/estudiante/eclipse-workspace/Proyecto_2/Ejercicio_2.py
+4=Ejercicio_3
+6=Ejercicio_2
+2=Ejercicio_5
+1=/home/estudiante/eclipse-workspace/Proyecto_2/Ejercicio_5.py
+3=/home/estudiante/eclipse-workspace/Proyecto_2/Ejercicio_3.py
+-- END DICTIONARY
+-- START TREE 1
+16
+A|1|A!1^1#1*19@
+B|1|B!1^2#1*19@
+can|1|cantidad!3^1#1*35@
+con|1|contestacion!3^21#5*35@
+din|1|dineroSacar!5^21#1*51@
+eda|2|edad!3^10#1*35@edadAdolescente!3^12#5*35@
+est|2|estado!5^42#9*51@estadoCivil!5^40#1*51@
+hor|1|hora!5^30#1*51@
+min|1|minutos!5^31#1*51@
+num|2|numero!5^11#1*51@numero!3^28#1*35@
+pre|1|precio!5^2#1*51@
+res|1|respuesta!3^19#1*35@
+sal|1|saldo!5^20#1*51@
+tie|1|tiempo!5^33#5*51@
+tot|2|total!3^3#5*35@total!5^23#5*51@
+val|1|valor!3^30#5*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

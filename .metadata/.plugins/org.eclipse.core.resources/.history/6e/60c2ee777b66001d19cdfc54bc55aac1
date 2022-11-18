@@ -1,0 +1,5 @@
+lista = [3,1,6,2,9]
+numero = 5
+for i in range(lista[i]):
+    if lista[i] < numero:
+        print(lista)

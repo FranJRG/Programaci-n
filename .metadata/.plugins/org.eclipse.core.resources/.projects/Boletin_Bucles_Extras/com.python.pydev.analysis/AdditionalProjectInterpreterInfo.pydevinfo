@@ -1,0 +1,25 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/estudiante/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Boletin_Bucles_Extras/com.python.pydev.analysis/v2_indexcache
+Secuencia_fibonacci|1666959738585918000|/home/estudiante/eclipse-workspace/Boletin_Bucles_Extras/Secuencia_fibonacci.py
+Actividades|1666693819658903000|/home/estudiante/eclipse-workspace/Boletin_Bucles_Extras/Actividades.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=/home/estudiante/eclipse-workspace/Boletin_Bucles_Extras/Actividades.py
+4=Secuencia_fibonacci
+2=Actividades
+3=/home/estudiante/eclipse-workspace/Boletin_Bucles_Extras/Secuencia_fibonacci.py
+-- END DICTIONARY
+-- START TREE 1
+6
+acu|2|acumulador_puzzle!1^101#1*19@acumulador_dinero!1^102#1*19@
+con|1|contador!3^3#1*35@
+din|1|dinero!1^100#1*19@
+eda|1|edad!1^98#1*19@
+puz|1|puzzle!1^99#1*19@
+val|2|valores!3^1#1*35@valor_anterior!3^4#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
